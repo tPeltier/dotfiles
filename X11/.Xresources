@@ -4,7 +4,7 @@
 
 ! black 236 238
 *.color0: #1a1a1a
-*.color8: #625e4c
+*.color8: #282828
 ! red 167
 *.color1: #f4005f
 *.color9: #f4005f
