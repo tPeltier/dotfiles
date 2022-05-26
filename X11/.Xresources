@@ -1,31 +1,31 @@
-*.foreground: #C6C6C6
-*.background: #1C1C1C
-*.cursorColor: #444444
+*.foreground: #c4c5b5
+*.background: #1a1a1a
+*.cursorColor: #f6f7ec
 
 ! black 236 238
-*.color0: #303030
-*.color8: #444444
+*.color0: #1a1a1a
+*.color8: #625e4c
 ! red 167
-*.color1: #d75f5f
-*.color9: #d75f5f
+*.color1: #f4005f
+*.color9: #f4005f
 ! green 108
-*.color2: #87AF87
-*.color10: #87AF87
+*.color2: #98e024
+*.color10: #98e024
 ! yellow 221
-*.color3: #ffd75f
-*.color11: #ffd75f
+*.color3: #fa8419
+*.color11: #e0d561
 ! blue 110
-*.color4: #87afd7
-*.color12: #87afd7
+*.color4: #9d65ff
+*.color12: #9d65ff
 ! magenta 146
-*.color5: #afafd7
-*.color13: #afafd7
+*.color5: #f4005f
+*.color13: #f4005f
 ! cyan 75
-*.color6: #afd7ff
-*.color14: #afd7ff
+*.color6: #58d1eb
+*.color14: #58d1eb
 ! white 239 15
-*.color7: #e4e4e4
-*.color15: #ffffff
+*.color7: #c4c5b5
+*.color15: #f6f6ef
 
 URxvt*font: xft:Inconsolata Nerd Font Mono:style=Medium:size=14:pixelsize=16:antialias=true
 URxvt*borderLess: false
